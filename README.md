@@ -50,7 +50,7 @@ Vous pourrez uploader un fichier `.xlsx` et générer un fichier PDF avec un ré
 
 ## 🧠 Auteur
 
-Créé par [Ton Nom] dans le cadre d'une série de mini-automatisations pour les métiers opérationnels (RH, Qualité, Admin, Supply, etc.)
+Créé par CARRÉ Matthieu  dans le cadre d'une série de mini-automatisations pour les métiers opérationnels (RH, Qualité, Admin, Supply, etc.)
 
 ---
 
